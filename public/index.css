@@ -1,0 +1,10 @@
+.info {
+  width: 300px;
+  height: 300px;
+  overflow-y: scroll;
+  border: 1px solid black;
+}
+
+.info div {
+  margin-bottom: 20px;
+}
