@@ -1,5 +1,7 @@
 # toyota-demo-client-app
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/asiandrummer/toyota-demo-client-app.svg)](https://greenkeeper.io/)
+
 ## Purpose
 Toyota Demo client application to represent a single vehicle that sends/receives requests.
 
